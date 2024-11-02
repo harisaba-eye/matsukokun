@@ -5,6 +5,7 @@ var quiz = [
   ["Does Mr.wada played tennis yesterdayの意味を答えてください", "和多氏はテニスをします", "和多氏は昨日テニスをしました", "和多氏はテニスをしてる途中です", "元気ですか", 2],
  ["5x -16 = -2x 5は？", "-100", "-21", "76", "3", 4], 
   ];
+var counter = 0;
   var score = 0;
   var end = false;
 
